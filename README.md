@@ -1,4 +1,10 @@
-# Clone repo
+ai-video-generator/
+├── frontend/    # React + Tailwind (PWA)
+├── backend/     # Node.js or Python API
+├── docs/        # Documentation
+├── .github/     # GitHub workflows, templates
+├── README.md
+└── LICENSE# Clone repo
 git clone https://github.com/quavo256/ai-video-generator.git
 cd ai-video-generator
 
